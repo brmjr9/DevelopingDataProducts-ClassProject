@@ -1,0 +1,8 @@
+name: shiny_beta_dist_app
+account: brmjr9
+server: shinyapps.io
+bundleId: 296345
+url: https://brmjr9.shinyapps.io/shiny_beta_dist_app
+when: 1445708284.68106
+asMultiple: FALSE
+asStatic: FALSE

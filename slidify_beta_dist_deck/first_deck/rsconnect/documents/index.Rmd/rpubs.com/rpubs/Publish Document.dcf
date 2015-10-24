@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/120366/9bc44a51bf36487a9e200010d2f507fa
+url: http://rpubs.com/brmjr9/120366
+when: 1445708772.00348
